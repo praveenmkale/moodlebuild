@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.moodle.learn"
+        id        = "org.ssssoka.balvikas"
         versionCode = "1"
         version   = "1.0">
     <name>Balvikas</name>
 
     <description>
-        Balvikas Karnataka
+        Balvikas Mobile App
     </description>
 
     <author href="https://ssssoka.org" email="admin@ssssoka.org">
-        Sri Sathya Sai Seva Organization
+        Sri Sathya Sai Seva Organization Karnataka
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
